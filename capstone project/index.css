@@ -1,0 +1,571 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Inter:wght@100..900&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100;1,100&display=swap');
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	font-family:"Montserrat Alternates", sans-serif;
+}
+
+.main-page{
+	
+}
+/*header section*/
+.container-top{
+	position:relative;
+	display:flex; 
+	justify-content:space-between;
+	align-items:center;
+	background-color:fafbff;
+}
+.head2{
+	position:absolute;
+	top:14px;
+	left:70px;
+	width:10%;
+	color:;
+}
+
+.nav-header-bar{
+	font-size:14px;
+	position:absolute;
+	top:8px;
+	left:30%;
+	display:flex;
+		justify-content:flex-end;
+
+}
+.header-options:hover{
+	color:#939496;
+	cursor:pointer;
+}
+
+.header-options{
+	display:flex;
+	align-content:center
+	list-style-type:none;
+	color:939496;
+}
+.header-options{
+	margin:8px 8px;
+		margin-top:6px;
+			border:none;
+
+}
+.header-button1{
+	border-radius:50px;
+	border:none;
+	background:#1e5ee5;
+padding:15px 20px;
+	color:white;
+}
+/*hero section*/
+
+.hero-section-ptext{
+	width:800px;
+font-size:18px;
+
+}
+.hero-section{
+	width:1000px;
+	height:auto;
+	height:auto;
+	
+	position:relative;
+	top:100px;
+	left:50px;
+	
+}
+.style-overlay{
+			position:absolute;
+	top:0px;
+	left:540px;
+	
+}
+.img{
+		position:absolute;
+	top:-5px;
+	left:560px;
+}
+.img2{
+	position:absolute;
+	top:80px;
+	left:560px;
+}
+.hero-section-button{
+	display: flex;
+	align-items:center;
+	margin-topp:150px;
+	padding-top:30px;
+}
+.hero-section-button1{
+	display: flex;
+	margin-left:15px;
+margin-right:4px;
+padding:15px;
+border:none;
+border-radius:50px;
+	background-color:f26822;
+	 cursor:pointer;
+}
+.hero-section-button2{
+	display: flex;
+	margin-left:15px;
+margin-right:4px;
+padding:15px;
+border:none;
+border-radius:50px;
+	background-color:#1e5ee5;
+	 cursor:pointer;
+}
+.head-3{
+	position:relative;
+
+
+}
+.head-4{
+	position:absolute;
+	top:0px;
+	text-align:center;
+		font-size:30px;
+		left:30%;
+
+}
+.img3{
+	position:absolute;
+	top:70px;
+	left:550px;
+	padding-top:70px;
+	
+}
+.head-para2{
+	position:absolute;
+	left:15%;
+font-size:18px;
+padding-top:190px;
+width:67%;
+}	
+.hero2-heading{
+	position:relative;
+	text-align:center;
+	top:300px;
+	align-items:center;
+}
+.head-3{
+	position:absolute;
+top:40px;
+left:200px;
+width:600px;
+}
+
+ 
+ /*colum and rows section*/
+.container11{
+display:flex;
+flex-wrap:wrap;
+width:100%;
+height:auto;
+margin-bottom:80px;
+margin-top:50px;
+
+}
+.box11{
+	flex:1 1 200px;
+	height:auto;
+	background-color:ffffff;
+	margin:10px;
+	text-align:center;
+}
+.uni{
+	padding-top:20px;
+	
+}
+
+.g11{
+	padding-top:15px;
+	width:52px;
+padding-left:15px;
+}
+.g11 p{
+	font-size:8px;
+	
+}
+	
+.g21{
+		position:absolute;
+
+	padding-top:10px;
+	padding-left:10px;
+}
+.box11 h4{
+font-size:14px;	
+}
+.box11 p{
+font-size:12px;	
+}	
+.colum-h11{
+	font-size:18px;
+	padding-left:30px;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+	
+	
+}
+
+.colum-p11{
+	justify-content:
+	font-size:12px;
+	padding-left:70px;
+}
+/*section-13*/
+.section-13{
+	width:100%;
+	height:auto;
+	/*
+	position:absolute;
+	left:220px;
+	top:950px;
+	*/
+}
+.section-14{
+	position:absolute;
+	left:0px;
+	top:1150px
+}
+.section-14-2{
+	width:400px;
+	position:absolute;
+	top:1150;
+	left:500px;
+}
+.section-14-2 p{
+	margin:10px 0px;
+	padding:0px 0px;
+}
+
+.button-14{
+	margin-top:20px ;
+padding:15px;
+border:none;
+border-radius:50px;
+	background-color:#1e5ee5;
+	 cursor:pointer;
+}
+/*section-15 start*/
+.section-15{
+	position:absolute;
+	top:1500px;
+left:220px;
+}
+/*section-16 start*/
+.section-16{
+	width:400px;
+	position:absolute;
+	top:1700px;
+	left:0px;
+
+}
+.section-16 p{
+	margin:10px 0px;
+}
+
+.section-16-2{
+		position:absolute;
+	top:1700px;
+	left:400px;
+	
+}
+.section-18{
+	position:absolute;
+	top:2000px;
+	left:220px;
+}
+.section-19{
+	position:absolute;
+	top:2200px;
+	left:0px;
+}
+.section-19-2{
+		width:400px;
+	position:absolute;
+	top:2200px;
+	left:500px;
+}
+.section-19-2 p{
+	margin:10px 0px;
+}
+
+.section-19-2b{
+	width:400px;
+		margin-right:4px;
+padding:15px;
+border:none;
+border-radius:50px;
+	background-color:#1e5ee5;
+	 cursor:pointer;
+}
+.section-20{
+	background-color:403595;
+	
+}
+/*section-20 start*/
+.section-20{
+	color:white;
+		position:absolute;
+	top:2600px;
+	left:90px;
+	width:900px;
+height:150px;
+padding:5px;
+border:none;
+border-radius:20px;
+	background-color:403595;
+}
+.b20{
+		width:100px;
+		margin-right:4px;
+padding:15px;
+border:none;
+border-radius:50px;
+	background-color:white;
+	 cursor:pointer;
+	 position:absolute;
+	 left:650px;
+}
+/*section-20 end*/
+
+.section-21{
+	width:100%;
+	height:auto;
+	background-color:edf3ff;
+	position:absolute;
+	top:2765px;
+	
+
+}
+.section-21 h1{
+	padding-top:100px;
+}
+.section-21 .p{
+  font-family: "Montserrat Alternates", sans-serif;
+  font-style: normal;
+	font-size:24px;
+	font-weight:normal;
+}
+.span21{
+	color:blue;
+	font-size:18px;
+	border-radius:50px;
+	margin-top:20px;
+}
+.box-21pic{
+	justify-content:center;
+	align-items:center;
+	
+}
+.box-21pic img{
+	border-radius:50%;
+}
+/* client logo start*/
+
+.logs-bar21 img{
+	margin:0px 30px;
+}
+/*client logo closed*/
+/*recommend section-22 start*/
+.recommend-section22{
+	
+		width:100%;
+	background-color:;
+	position:absolute;
+	top:3505px;
+
+}
+/*card section1* start*/
+.cards1{
+	display:flex;
+	margin-left:50px;
+}
+.card-1{
+	
+	width:520px;
+	border-radius:8px;
+	box-shadow:0px 2px 4px;
+	margin:20px;
+	height:340px;
+}
+.card-2b{
+	width:520px;
+	border-radius:8px;
+	box-shadow:0px 2px 4px;
+	margin:20px;
+	height:340px;
+	
+}
+.card-2{
+	display:above;
+	top:2400px;
+	width:500px;
+	
+}
+/*
+.News-22{
+position:absolute;
+left:100px;	
+
+	
+}*/
+.news-span{
+	width:500px;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.News-22 h3{
+	margin-bottom:10px;
+	text-align:start;
+	margin-left:10px;
+}
+.News-22 h6{
+	margin-left:10px;
+	margin-top:15px;
+}
+
+.avatar-man22{
+	display:flex;
+	/*
+position:absolute;
+top:180px;
+left:20px;*/
+}
+.avatar-man22 img{
+margin-left:15px;
+}
+
+.post{
+	width:400px;
+		display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.post-b{
+	margin:25px 30px;
+	
+}
+/*section-22 cards bg c*/
+.section22{
+	width:100%;
+	height:300px;
+	background-color:403595;
+	position:absolute;
+	top:4200px;
+			display:flex;
+	justify-content:space-between;
+	align-items:center;
+
+
+}
+.22card1{
+	width:200px;
+	background-color:yellow;
+	
+	border-radius:8px;
+	box-shadow:0px 2px 4px;
+	margin:20px;
+	height:500px;
+	background-color:yellow;
+	
+}
+.3cards{
+		display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.22card1{
+	width:300px;
+	background-color:white;
+	
+}
+/*3cards*/
+.avatar-man22-1{
+	display:flex;
+	background-color:ffffff;
+	margin:40px 10px;
+	padding-right:10px;
+	padding-left:10px;
+		text-align:start;
+
+}
+
+/* footer start*/
+.footer{
+	width:100%;
+	height:250px;
+	position:absolute;
+	top:4550px;
+	
+}
+.roz{
+	width:500px;
+	weight:400px;
+	background-color:white;
+}
+ 
+ /* footer start*/
+ .footer1{
+	 background-color:white;
+	 width:100%;
+	 height:200px;
+	 margin:10px 0px;
+ }
+ 
+ 
+ .Follow-icon12{
+padding:20px 0px;
+}
+
+
+.footer-row{
+	width:100%;
+	display:flex;
+	flex-wrap:wrap;
+	text-align:start;
+	text-decoration:none;
+}
+.footer-col{
+	width:230px;
+	height:160px;
+	background-color:ffffff;
+	margin:0px 1px;
+padding:0px 30px;
+font-size:12px;
+}
+
+.footer-col ul{
+	list-style:none;
+	text-align:start;
+	
+
+}
+.footer-col ul li{
+	margin:10px 10px;
+	
+}
+.footer-col h2{
+	font-size:22px;
+}
+ul{
+	padding:0px 0px;
+	
+}
+/*footer end*/
+
+
+
+
+
